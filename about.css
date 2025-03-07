@@ -1,0 +1,22 @@
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    margin-top: 7px;
+    margin-left: 150vh;
+}
+nav ul li a{
+    text-decoration: none;
+    color: grey;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 200px;
+}
+a:hover{
+    color: blue;
+}
+h4{
+  color: dimgrey;
+}

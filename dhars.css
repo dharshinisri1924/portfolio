@@ -1,0 +1,29 @@
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    margin-top: 7px;
+    margin-left: 150vh;
+}
+a:hover{
+    color: blue;
+}
+nav ul li a{
+    text-decoration: none;
+    color: grey;
+}
+h1{
+    font-size: 60px;
+    font-weight: 700;
+}
+.highlight{
+  color: blueviolet;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 200px;
+    position: absolute;
+    left: 150vh;
+    bottom: 250px;
+}

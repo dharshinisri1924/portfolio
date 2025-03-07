@@ -1,0 +1,14 @@
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    margin-top: 7px;
+    margin-left: 150vh;
+}
+nav ul li a{
+    text-decoration: none;
+    color: grey;
+}
+a:hover{
+    color: blue;
+}
