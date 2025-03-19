@@ -12,3 +12,10 @@ nav ul li a{
 a:hover{
     color: blue;
 }
+img{
+    width: 250px;
+    height: 250px;
+}
+.div{
+    margin-left: 5%;
+}
