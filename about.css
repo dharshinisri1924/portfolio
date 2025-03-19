@@ -18,13 +18,14 @@ img{
 a:hover{
     color: blue;
 }
-h4{
-  color: dimgrey;
-}
-.container{
-    display: flex;
-}
 .div{
-    margin-left: 100px;
     font-size:x-large;
+    margin-top: 3%;
+}
+.head{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.content{
+    margin-left: 5%;
 }
